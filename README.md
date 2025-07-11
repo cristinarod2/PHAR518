@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="‎Introduction.png" alt="PHAR518_Banner" width="100%">
+  <img src="‎Introduction.png" alt="Intro" width="100%">
 </p>
